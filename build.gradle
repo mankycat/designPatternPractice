@@ -3,7 +3,7 @@ version '1.0-SNAPSHOT'
 apply plugin: 'idea'
 apply plugin: 'java'
 apply plugin: 'application'
-mainClassName = 'pattern.command.App'
+mainClassName = 'inheritance.App'
 
 sourceCompatibility = 1.8
 
